@@ -346,7 +346,7 @@ hang-hanged-hanged
 ~~~
 everyday, every weekends, every four years, every fourth year, on Fridays
 ~~~
-3. V-미래 + (시간/조건 부사절 접속사) + V-단순/현재
+3. 주절이 미래일 때, (시간/조건 부사절 접속사) + V-단순/현재
 ~~~
 시간 부사접속사: when, before, after, by the time
 조건 부사접속사: given, provides, as long as, in case
@@ -354,7 +354,7 @@ everyday, every weekends, every four years, every fourth year, on Fridays
 
 ## 2.2. V-단순/과거
 1. 변화X / Fact / 끝
-2. 단순과거시간표시부사(현재완료시제X)
+2. 단순과거시간표시부사(현재완료표시부사X)
 ~~~
 yesterday, last month, several months ago, in 2000, during the 1990's
 ~~~
@@ -369,7 +369,7 @@ be supposed to: -하기로 되어 있다, -할 의무가 있다
 ~~~
 
 ## 2.4. V-완료/현재
-1. 현재완료시간표시부사 (+ V-완료/현재)
+1. 현재완료시간표시부사(단순과거표시부사X) (+ V-완료/현재)
 ~~~
 부사구: so far, up to now, until now
 접속사: since S V-과거
@@ -378,5 +378,76 @@ be supposed to: -하기로 되어 있다, -할 의무가 있다
 2. 단순과거표시부사, 역사적 사실 X
 
 ## 2.5. V-완료/과거
-1. 과거 이전 + 과거 기준시점을 보여주는 절
+1. 발생 순서 확인
 2. 역사적 사실 X
+
+## 2.6. V-완료/미래
+1. 미래완료시간표시부사
+~~~
+by+미래표시어
+~~~
+
+## 2.7. V-진행
+1. 진행형 불가 동사
+- 소유동사
+~~~
+have, possess, belong to
+cf) have-동작동사
+~~~
+- 상태동사
+~~~
+resemble, remain, become, seem
+~~~
+- 감정동사
+~~~
+like, love, adore, hate, dislike, want, mind
+~~~
+- 인식동사
+~~~
+know, understand, remember, forget
+~~~
+- 지각동사
+~~~
+look, smell, taste, sound, feel
+cf) taste-동작동사
+~~~
+
+## 2.8. 시제일치
+1. 시간표시부사->시제 일치
+2. 등위접속사->시제 병치
+- 등위접속사
+~~~
+and, but/yet, or, so, for, nor
+~~~
+3. 종속접속사->발생 순서
+
+## 2.9. 시제관련 관용표현
+1. A하자마자 B하다
+~~~
+As soon as S V-단순/과거 ~, S V-단순/과거
+The moment S V-단순/과거 ~, S V-단순/과거
+~~~
+~~~
+(주절 과거완료, 종속절 단순과거, 부사접속사 매칭)
+S had no sooner V-ed than S V-단순/과거
+S had hardly/scarcely V-ed when/before S V-단순/과거
+~~~
+~~~
+(도치)
+No sooner had S V-ed ~ than S V-단순/과거
+Hardly/Scarcely had S V-ed ~ when/before S V-단순/과거
+~~~
+2. until 하고나서야 ~하다
+~~~
+not A until B
+Not until B A(도치)
+It is not until B that A
+~~~
+3. 머지않아 ~할 것이다
+~~~
+It will not e long before S V-단순/현재
+~~~
+4. 채 A 하기도 전에 B 했다
+~~~
+S had not V-ed ~ when/before S V-단순/과거
+~~~
